@@ -1,6 +1,5 @@
 # DSA-DOCUMENTATION
 This is where I started my portfolio building while taking my Data analysis class with the Incubator Hub.
-
 I have learnt quite a number of things ranging from MC word ,SQL and now my portfolio building.
 
 ## Project Topic: E-Commerce Sale Analysis
@@ -40,4 +39,18 @@ actions;
  ### Data Analysis
    This is where we include some basic lines of code or queries or even some of the DAX
    expressions used during your analysis
+
+   # DSA Documentation
+
+   ## Project Topic
+
+   # Project Overview
+   - [ Data Source ](# Data Source)
+   - [ Tools Used ]( # Tools Used )
+   - [ Data Cleaning and Preparation ](# Data Cleaning and Preparation )
+   - [ Exploration Data Analysis ]( # Exploration Data Analysis )
+
+ ## Usage
+ ## License.
+   
 
