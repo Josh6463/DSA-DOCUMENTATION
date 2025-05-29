@@ -15,9 +15,11 @@ The Primary Source of Data used here is Data Sale.Csv and this is an open source
 such as kaggle or FRED or any other data repository site.
 
 ### Tools Used
-- Ms Excel for Data Cleaning [download here]
+- Ms Excel for Data Cleaning [download here](https://www.microsoft.com)
      - For Data Collection
-     - For Data Cleaning 
+     - For Data Cleaning
+        1. Data Manipulation
+        2. Data Munching
 - SQL Server ( for Querying and Analysis)
 - Power BI ( For Creating a report)
 - Ms Power Point ( For Presentation)
