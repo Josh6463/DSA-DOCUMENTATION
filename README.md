@@ -24,3 +24,20 @@ such as kaggle or FRED or any other data repository site.
 - Power BI ( For Creating a report)
 - Ms Power Point ( For Presentation)
 
+### Data Cleaning and Preparation
+In the initial phase of the **Data Cleaning and Preparation**, We perform the following 
+actions;
+ - Data Loading and Inspection
+ - Handling Missing variables
+ - Data Cleaning and formatting
+ - 
+ ### Exploration Data Analysis
+   EDA involved the exploring of the Data to answer some questions about the data such as;
+    - What is the Overall Sales trend
+    - which product are top sellers
+    - what are the products on peak sales?
+    
+ ### Data Analysis
+   This is where we include some basic lines of code or queries or even some of the DAX
+   expressions used during your analysis
+
